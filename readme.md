@@ -32,6 +32,6 @@ In the back-end:
 
 You can find me here too 👇
 
-<a href="https://www.linkedin.com/in/daniel-gregolate-6a2380183/" target="_blank">
+<a href="https://www.linkedin.com/in/danielgregolate/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 </a>
